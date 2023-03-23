@@ -1,5 +1,15 @@
 {
-    "dependencies": {
-      "@solana/web3.js": "^1.74.0"
-    }
-  }
+  "dependencies": {
+    "@solana/web3.js": "^1.74.0"
+  },
+  "name": "sol_transfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
